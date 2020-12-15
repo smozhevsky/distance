@@ -219,6 +219,7 @@ body {
   margin-left: 16px;
   width: 100%;
   max-width: 500px;  /* xz */
+  padding: 5px;
 }
 
 .create-post-footer {
