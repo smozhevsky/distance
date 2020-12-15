@@ -218,6 +218,7 @@ body {
   padding-top: 8px;
   margin-left: 16px;
   width: 100%;
+  max-width: 500px;  /* xz */
 }
 
 .create-post-footer {
