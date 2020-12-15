@@ -240,6 +240,7 @@ body {
   border: none;
   padding: 9px 12px;
   margin-right: 8px;
+  cursor: pointer;
 }
 .button-text {
   color: #595959;
