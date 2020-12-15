@@ -209,14 +209,14 @@ body {
 }
 .create-post-body {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   padding: 16px 16px 24px 16px;
   width: 588px;
 }
 .create-post-input {
   color: #8C8C8C;
   padding-top: 8px;
-  padding-left: 16px;
+  margin-left: 16px;
   width: 100%;
 }
 
