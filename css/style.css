@@ -36,7 +36,6 @@ body {
   flex-direction: column;
   justify-content: space-evenly;
   margin-left: 5px;
-  outline: none;
 }
 
 .m-menu .line {
@@ -564,7 +563,7 @@ body {
     padding-top: 12px;
     height: 100%;
     padding-left: 2%;
-    transform: translateX(-100%);
+    transform: translateX(-101%);
     transition: transform .2s;
   }
   .menu-sidebar.active {
